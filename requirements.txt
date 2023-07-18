@@ -1,0 +1,6 @@
+google-cloud
+google-cloud-storage
+apache-beam[gcp]==2.48.0
+segment-geospatial==0.8.4
+cython
+triton==2.0.0
